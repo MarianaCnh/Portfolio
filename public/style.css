@@ -1,0 +1,14 @@
+body {
+    font-family: 'Roboto Slab', serif, Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E8F8F5;
+}
+
+.titre {
+    display: flex;
+    justify-content: center;
+    background-color:#0E6251;
+    margin: 0;
+}
+
